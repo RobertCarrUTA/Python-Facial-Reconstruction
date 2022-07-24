@@ -1,3 +1,6 @@
 *README.md is still under construction*
-# About
-Utilized concepts from my linear algebra class to construct a facial reconstruction program in Python. Face reconstruction was achieved through the use of eigenfaces and principal component analysis. Based on a sample of 400 faces, the mean face of the sample was determined. I was able to reconstruct any face in the sample by adding the eigenfaces scaled by the weights to the mean face image.
+
+## About
+This Python project reconstructs faces from image datasets using Linear Algebra concepts. To reconstruct the face, the mean facial image of the dataset is computed (a dataset of 400 images), and then the eigenfaces are scaled by the weights and added to the mean facial image.
+
+In addition to adding the Jupyter Notebook, I have also included the Python file. Using the Jupyter Notebook, you can view the results and reasoning behind code implementations very quickly.
