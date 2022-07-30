@@ -9,7 +9,7 @@ In addition to adding the Jupyter Notebook, I have also included the Python file
 This program was developed using Ubuntu using Jupyter Notebook, but I will include compile instructions for Windows as well.
 
 ### Windows
- * Install all necessary libraies if you do not have them already, for me this list included:
+ * Install all necessary libraries if you do not have them already, for me this list included:
    * C:\Python310\python.exe -m pip install --upgrade pip --user
      * The path at the start of this command will likely change for you, the terminal may tell you what to enter
    * python -m pip install -U matplotlib --user
