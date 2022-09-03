@@ -1,5 +1,3 @@
-*README.md is still under construction*
-
 ## Table of Contents
 - Facial Reconstruction in Python
   * [About the Project](#about-the-project)
